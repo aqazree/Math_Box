@@ -13,3 +13,6 @@ def divide(a,b):
 
 def remain_new(a,b):
   return a%b
+
+def say_hello():
+  print("hello")
