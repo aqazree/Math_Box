@@ -11,5 +11,5 @@ def multiply(a,b):
 def divide(a,b):
   return a/b
 
-def remain(a,b):
+def remain_premium(a,b):
   return a%b
